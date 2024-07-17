@@ -1,0 +1,16 @@
+.container {
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+table {
+    width: 100%;
+    border: 1px solid #ddd;
+}
+td {
+    width: 20%;
+    position: relative;
+}
+td .content {
+    aspect-ratio: 1/1;
+}
